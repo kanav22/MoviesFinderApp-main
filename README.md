@@ -1,20 +1,26 @@
-MoviesFinderApp:
+MoviesFinderApp Overview:
 
-The app is meant to help people search for a movie from TheMovieDb. It has a finder where you can search movies based on a keyword. Also, you can filter movies based on release years, rating, genre, language. The app also shows the most popular movies and top rated movies.
-- I did the UI/UX of the app
-- I did the testing on the app
-- I thought about new features
-- I developed the required features
-- I used the newest Android technologies (Jetpack Compose, Flows, Compose Navigation)
-- I used Paginating for loading the movies 
+MoviesFinderApp is designed to assist users in searching for movies from TheMovieDb database. The application features a robust finder functionality enabling users to search for movies based on keywords. Additionally, users can refine their searches using filters such as release years, ratings, genres, and languages. Moreover, the app showcases the most popular and top-rated movies.
+
+My Contributions:
+
+Spearheaded the UI/UX design process to ensure an intuitive and visually appealing user experience.
+Conducted comprehensive testing to guarantee the app's functionality and usability across various scenarios.
+Innovated new features to enhance the app's capabilities and user engagement.
+Implemented essential features using the latest Android technologies, including Jetpack Compose, Flows, and Compose Navigation.
+Employed Pagination techniques to optimize the loading of movie data.
+Tech Stack Utilized:
+
+Kotlin, Jetpack Compose, Retrofit, Dagger Hilt, Navigation, Flows, Paging, ExoPlayer, MVVM.
 
 
-**Tech Stack: Kotlin, Jetpack Compose, Retrofit, Dagger Hilt, Navigation, Flows, Paging, ExoPlayer, MVVM
-**
 
-<img width="303" alt="Screenshot 2024-01-08 at 16 45 07" src="https://github.com/biancapistea/MoviesFinderApp/assets/56589178/dd7bbbf5-e0af-40bd-af60-fe6607ef40d5">
-<img width="303" alt="Screenshot 2024-01-08 at 16 45 19" src="https://github.com/biancapistea/MoviesFinderApp/assets/56589178/3e11d2da-eb06-4f39-b5f2-b8c4d02b5f44">
-<img width="303" alt="Screenshot 2024-01-08 at 16 45 25" src="https://github.com/biancapistea/MoviesFinderApp/assets/56589178/5de25dbc-b700-4f50-b8dc-e6f090af7f7c">
-<img width="303" alt="Screenshot 2024-01-08 at 16 45 30" src="https://github.com/biancapistea/MoviesFinderApp/assets/56589178/9cf7dd19-9f33-4986-93d8-eb8c70c0959e">
-<img width="303" alt="Screenshot 2024-01-08 at 16 45 42" src="https://github.com/biancapistea/MoviesFinderApp/assets/56589178/acbb5903-c062-4d83-af4e-439fd62753cb">
-<img width="303" alt="Screenshot 2024-01-08 at 16 45 50" src="https://github.com/biancapistea/MoviesFinderApp/assets/56589178/347ed486-2689-4cf4-b55b-9e74c9c6d05f">
+<img width="278" alt="Screenshot 2024-03-24 at 12 08 27 PM" src="https://github.com/kanav22/MoviesFinderApp-main/assets/5936688/b290e66a-d057-4ea8-bdae-916ccd6ab2f5">
+<img width="270" alt="Screenshot 2024-03-24 at 12 08 19 PM" src="https://github.com/kanav22/MoviesFinderApp-main/assets/5936688/130e4fe1-23ff-4acb-9344-e5fe324b6148">
+<img width="282" alt="Screenshot 2024-03-24 at 12 08 12 PM" src="https://github.com/kanav22/MoviesFinderApp-main/assets/5936688/b1c96e6a-806a-4d38-9671-8c41a2b517e2">
+<img width="270" alt="Screenshot 2024-03-24 at 12 08 01 PM" src="https://github.com/kanav22/MoviesFinderApp-main/assets/5936688/100d6dbc-6cb3-49be-b7bb-4c65c25423c0">
+
+
+
+
+
